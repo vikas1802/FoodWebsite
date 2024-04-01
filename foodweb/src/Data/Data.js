@@ -1,0 +1,99 @@
+export const Data = [
+    {
+    id:1,
+    title:"Sandwich",
+    price:"$850",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029860/PC_Creative%20refresh/3D_bau/banners_new/Sandwich.png",
+    },
+    {
+   id:2,
+   title:"Cakes",
+price:"$850",
+   img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Cakes.png",
+    },
+     {
+    id:3,
+    title:"Kachori",
+    price:"$850",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029847/PC_Creative%20refresh/3D_bau/banners_new/Kachori.png",
+    },
+     {
+    id:4,
+      title:"Vada",
+     price:"$850",
+      img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029842/PC_Creative%20refresh/3D_bau/banners_new/Vada.png",
+     },
+     {
+    id:5,
+    title:"Lassi",
+    price:"$850",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+    },
+  {
+  id:6,
+  title:"SParatha",
+  price:"$850",
+  img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029853/PC_Creative%20refresh/3D_bau/banners_new/Paratha.png",
+    },
+  {
+  id:7,
+ title:"Samosas",
+  price:"$850",
+  img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029860/PC_Creative%20refresh/3D_bau/banners_new/Samosas.png",
+ },
+ {
+id:8,
+ title:"Poha",
+ price:"$850",
+img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029857/PC_Creative%20refresh/3D_bau/banners_new/Poha.png",
+  },
+{
+id:9,
+title:"Shakes",
+price:"$850",
+img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029858/PC_Creative%20refresh/3D_bau/banners_new/Shakes.png",
+},
+{
+id:10,
+title:"Dhokla",
+price:"$850",
+img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029845/PC_Creative%20refresh/3D_bau/banners_new/Dhokla.png",
+}, 
+];
+export const meal = [
+  {
+    id:"5",
+    name:"spcl pizza",
+    category:"pizza",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+    price:"$200,"
+  },
+  {
+    id:"6",
+    name:"spcl pizza",
+    category:"pizza",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+    price:"$200,"
+  },
+  {
+    id:"7",
+    name:"spcl pizza",
+    category:"pizza",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+    price:"$200,"
+  },
+  {
+    id:"8",
+    name:"spcl pizza",
+    category:"pizza",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+    price:"$800,"
+  },
+  {
+    id:"9",
+    name:"spcl pizza",
+    category:"pizza",
+    img:"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/v1674029844/PC_Creative%20refresh/3D_bau/banners_new/Lassi.png",
+    price:"$100,"
+  },
+];
